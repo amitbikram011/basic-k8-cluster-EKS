@@ -84,6 +84,7 @@ Save:
 
 - Access Key ID
 - Secret Access Key
+- save the .csv file
 
 These credentials will be used to configure AWS CLI.
 
